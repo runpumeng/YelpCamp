@@ -35,7 +35,7 @@
 ##### 2.MongoDB (Community Edition preferrably) to store data. Instructions on downloading and installing MongoDB on your computer can be found [here](https://www.mongodb.com/docs/manual/installation/).
 
 ### Installing
-##### Once you have Node.js and MongoDB installed on your computer,
+##### Once you have Node.js and MongoDB installed on your computer.
 ##### 1.Download the project or clone it to your computer by running "git clone https://github.com/runpumeng/YelpCamp.git" on your Git terminal.
 ##### 2.Go to the directory of the folder yelpcamp containing the files of the repositiory using "cd" to this YelpCamp folder in your computer.
 ##### 3.When you have reached this YelpCamp directory, use "npm install".
