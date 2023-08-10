@@ -24,6 +24,21 @@
 ##### I have deployed the YelpCamp-Runpu app on a cloud service - Heroku
 ##### If you are interested about it, you can directly check the link: https://quiet-mesa-46851-036cb9b33059.herokuapp.com, and enjoy the application online!
 
+## Features
+##### 1.Users can create, edit, and remove campgrounds.
+##### 2.Users can review campgrounds, and edit or remove their reviews.
+##### 3.Users can use the big map to find the locations and the cluster maps to check detail info.
+
 ## Run it locally
 ### Prerequisites
 ##### 1.Node.js for running server-side JavaScript. You can find instructions on how to download and install Node.js for your computer [here](https://nodejs.org/en/download).
+##### 2.MongoDB (Community Edition preferrably) to store data. Instructions on downloading and installing MongoDB on your computer can be found [here](https://www.mongodb.com/docs/manual/installation/).
+
+### Installing
+##### Once you have Node.js and MongoDB installed on your computer,
+##### 1.Download the project or clone it to your computer by running "git clone https://github.com/runpumeng/YelpCamp.git" on your Git terminal.
+##### 2.Go to the directory of the folder yelpcamp containing the files of the repositiory using "cd" to this YelpCamp folder in your computer.
+##### 3.When you have reached this YelpCamp directory, use "npm install".
+##### 4.Once installation is complete, run "npm start" on the same terminal.
+##### 5.Open your web browser and visit the address "localhost:3000" and Come on, let's go!
+##### 6.Sign up to use the awesome features of the app!
