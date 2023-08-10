@@ -29,6 +29,13 @@
 ##### 2.Users can review campgrounds, and edit or remove their reviews.
 ##### 3.Users can use the big map to find the locations and the cluster maps to check detail info.
 
+## Build With
+##### Node.js - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+##### express - Fast, unopinionated, minimalist web framework for Node.js
+##### MongoDB - The database for modern applications
+##### Mongoose - Elegant MongoDB object modeling for Node.js
+##### ejs - Embedded JavaScript templating
+
 ## Run it locally
 ### Prerequisites
 ##### 1.Node.js for running server-side JavaScript. You can find instructions on how to download and install Node.js for your computer [here](https://nodejs.org/en/download).
@@ -40,5 +47,6 @@
 ##### 2.Go to the directory of the folder yelpcamp containing the files of the repositiory using "cd" to this YelpCamp folder in your computer.
 ##### 3.When you have reached this YelpCamp directory, use "npm install".
 ##### 4.Once installation is complete, run "npm start" on the same terminal.
-##### 5.Open your web browser and visit the address "localhost:3000" and Come on, let's go!
-##### 6.Sign up to use the awesome features of the app!
+##### 5.Run mongodb in another terminal and "node app.js" in the terminal with the project.
+##### 6.Open your web browser and visit the address "localhost:3000" and Come on, let's go!
+##### 7.Sign up to use the awesome features of the app!
