@@ -26,6 +26,8 @@
 ##### 3.Users can use the big map to find the locations and the cluster maps to check detail info.
 
 ## Build With
+##### HTML, CSS, Javascript.
+##### npm package.
 ##### Node.js - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 ##### express - Fast, unopinionated, minimalist web framework for Node.js
 ##### MongoDB - The database for modern applications
